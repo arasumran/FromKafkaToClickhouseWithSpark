@@ -32,8 +32,13 @@
 
 
 > #### Run
-> After you have installed the dependencies, you can run the example. with docker easily you can run the following command:
-> ```docker-compose up``` you can start your kafka and clickhouse containers and after that you can start your JAVA app for streaming processing.
->
+> After you have installed the dependencies, you can run the example with docker easily you can run the following command:
+```
+docker-compose up -d # ( Start the containers )
+## start your java application for streaming from kafka data to clickhouse
+## and you can produce your data to kafka with example python code
+## open your browser and go to http://localhost:8123/play 
+```
+
 
 
