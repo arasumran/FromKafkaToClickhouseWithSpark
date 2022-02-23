@@ -34,5 +34,5 @@
 >
 
 
-![This is an image]()
+![This is an image](src/main/resources/image_diagram.png)
 
