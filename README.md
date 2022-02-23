@@ -1,5 +1,8 @@
 #### From Kafka To Clickhouse With Spark
 
+![This is an image](src/main/resources/image_diagram.png)
+
+
 > This example shows how to read from Kafka and write to Clickhouse using Spark.
 
 
@@ -34,4 +37,3 @@
 >
 
 
-![This is an image](src/main/resources/image_diagram.png)
